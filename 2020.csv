@@ -1,0 +1,141 @@
+CIDADE,eMEC,NOMECURSO,GRAU,TURNO, VAGASSEM1, INSCSEM1, VAGASSEM2, INSCSEM2, VAGAS 2020, INSCRITOS 2020
+Angra dos Reis,12717,PEDAGOGIA,Licenciatura,Noturno,  41 ,  568 , -, -,  41 ,  568 
+Angra dos Reis,12717,PEDAGOGIA,Licenciatura,Vespertino, -, -,  41 ,  316 ,  41 ,  316 
+Angra dos Reis,1160469,POLÍTICAS PÚBLICAS,Bacharelado,Noturno,  40 ,  405 , -, -,  40 ,  405 
+Angra dos Reis,1278713,GEOGRAFIA,Licenciatura,Vespertino, -, -,  40 ,  251 ,  40 ,  251 
+Campos dos Goytacazes,12696,SERVIÇO SOCIAL,Bacharelado,Noturno,  50 ,  1036 ,  50 ,  575 ,  100 ,  1611 
+Campos dos Goytacazes,123729,CIÊNCIAS SOCIAIS,Licenciatura,Noturno,  35 ,  304 ,  35 ,  273 ,  70 ,  577 
+Campos dos Goytacazes,423708,GEOGRAFIA,Bacharelado,Vespertino,  62 ,  465 , -, -,  62 ,  465 
+Campos dos Goytacazes,1077609,CIÊNCIAS ECONÔMICAS,Bacharelado,Integral,  60 ,  528 ,  60 ,  464 ,  120 ,  992 
+Campos dos Goytacazes,1077817,GEOGRAFIA,Licenciatura,Noturno, -, -,  63 ,  386 ,  63 ,  386 
+Campos dos Goytacazes,1079286,CIÊNCIAS SOCIAIS,Bacharelado,Noturno,  30 ,  279 ,  30 ,  191 ,  60 ,  470 
+Campos dos Goytacazes,1100005,PSICOLOGIA,Bacharelado,Integral,  55 ,  1675 ,  55 ,  1642 ,  110 ,  3317 
+Campos dos Goytacazes,1122208,HISTÓRIA,Licenciatura,Noturno,  20 ,  285 ,  20 ,  194 ,  40 ,  479 
+Campos dos Goytacazes,1123212,HISTÓRIA,Bacharelado,Noturno,  25 ,  251 ,  25 ,  153 ,  50 ,  404 
+Macaé,12724,ADMINISTRAÇÃO,Bacharelado,Noturno,  50 ,  1817 , -, -,  50 ,  1817 
+Macaé,12725,CIÊNCIAS CONTÁBEIS,Bacharelado,Noturno,  50 ,  564 , -, -,  50 ,  564 
+Macaé,52258,DIREITO,Bacharelado,Integral,  50 ,  1170 ,  50 ,  1021 ,  100 ,  2191 
+Niterói,12684,ARQUIVOLOGIA,Bacharelado,Integral,  40 ,  711 ,  40 ,  364 ,  80 ,  1075 
+Niterói,12685,BIBLIOTECONOMIA E DOCUMENTAÇÃO,Bacharelado,Integral,  40 ,  693 ,  40 ,  391 ,  80 ,  1084 
+Niterói,12686,CIÊNCIAS SOCIAIS,Licenciatura,Noturno,  30 ,  310 , -, -,  30 ,  310 
+Niterói,12686,CIÊNCIAS SOCIAIS,Licenciatura,Vespertino, -, -,  30 ,  224 ,  30 ,  224 
+Niterói,12688,FÍSICA,Licenciatura,Integral,  25 ,  100 ,  25 ,  64 ,  50 ,  164 
+Niterói,12688,FÍSICA,Licenciatura,Noturno,  35 ,  184 ,  25 ,  87 ,  60 ,  271 
+Niterói,12689,GEOGRAFIA,Licenciatura,Matutino,  25 ,  353 , -, -,  25 ,  353 
+Niterói,12689,GEOGRAFIA,Licenciatura,Noturno, -, -,  25 ,  188 ,  25 ,  188 
+Niterói,12690,PEDAGOGIA,Licenciatura,Integral,  80 ,  1920 ,  80 ,  963 ,  160 ,  2883 
+Niterói,12691,SERVIÇO SOCIAL,Bacharelado,Noturno,  55 ,  460 ,  55 ,  395 ,  110 ,  855 
+Niterói,12691,SERVIÇO SOCIAL,Bacharelado,Vespertino,  55 ,  356 , -, -,  55 ,  356 
+Niterói,12692,MEDICINA,Bacharelado,Integral,  90 ,  4280 ,  90 ,  7116 ,  180 ,  11396 
+Niterói,12693,ODONTOLOGIA,Bacharelado,Integral,  45 ,  1763 ,  45 ,  1489 ,  90 ,  3252 
+Niterói,12694,NUTRIÇÃO,Bacharelado,Integral,  40 ,  1663 ,  41 ,  821 ,  81 ,  2484 
+Niterói,12695,FARMÁCIA,Bacharelado,Integral,  72 ,  866 ,  72 ,  634 ,  144 ,  1500 
+Niterói,12698,CIÊNCIAS ECONÔMICAS,Bacharelado,Matutino,  50 ,  496 ,  50 ,  414 ,  100 ,  910 
+Niterói,12698,CIÊNCIAS ECONÔMICAS,Bacharelado,Noturno,  50 ,  676 ,  50 ,  411 ,  100 ,  1087 
+Niterói,12699,DIREITO,Bacharelado,Integral,  55 ,  1546 ,  55 ,  1019 ,  110 ,  2565 
+Niterói,12699,DIREITO,Bacharelado,Noturno,  55 ,  1746 ,  55 ,  1288 ,  110 ,  3034 
+Niterói,12700,QUÍMICA,Licenciatura,Integral,  10 ,  57 ,  10 ,  49 ,  20 ,  106 
+Niterói,12700,QUÍMICA,Licenciatura,Noturno,  15 ,  149 ,  15 ,  74 ,  30 ,  223 
+Niterói,12701,ADMINISTRAÇÃO,Bacharelado,Noturno,  40 ,  1510 ,  40 ,  666 ,  80 ,  2176 
+Niterói,12702,MATEMÁTICA,Licenciatura,Matutino,  30 ,  264 ,  20 ,  115 ,  50 ,  379 
+Niterói,12702,MATEMÁTICA,Licenciatura,Noturno,  35 ,  417 ,  35 ,  225 ,  70 ,  642 
+Niterói,12704,MEDICINA VETERINÁRIA,Bacharelado,Integral,  60 ,  2592 ,  60 ,  1940 ,  120 ,  4532 
+Niterói,12705,HISTÓRIA,Licenciatura,Matutino,  47 ,  690 ,  47 ,  460 ,  94 ,  1150 
+Niterói,12705,HISTÓRIA,Licenciatura,Noturno,  47 ,  780 ,  47 ,  428 ,  94 ,  1208 
+Niterói,12708,ENFERMAGEM,Bacharelado,Integral,  57 ,  2190 ,  57 ,  1375 ,  114 ,  3565 
+Niterói,12709,QUÍMICA INDUSTRIAL,Bacharelado,Integral,  20 ,  142 ,  20 ,  115 ,  40 ,  257 
+Niterói,12710,CIÊNCIA DA COMPUTAÇÃO,Bacharelado,Integral,  70 ,  1178 ,  70 ,  793 ,  140 ,  1971 
+Niterói,12711,CIÊNCIAS CONTÁBEIS,Bacharelado,Noturno,  45 ,  851 ,  45 ,  465 ,  90 ,  1316 
+Niterói,12718,ENGENHARIA QUÍMICA,Bacharelado,Integral,  50 ,  313 ,  50 ,  271 ,  100 ,  584 
+Niterói,12719,ENGENHARIA CIVIL,Bacharelado,Integral,  45 ,  686 ,  45 ,  449 ,  90 ,  1135 
+Niterói,12720,ENGENHARIA ELÉTRICA,Bacharelado,Integral,  45 ,  482 ,  45 ,  275 ,  90 ,  757 
+Niterói,12721,ENGENHARIA MECÂNICA,Bacharelado,Integral,  45 ,  463 ,  45 ,  330 ,  90 ,  793 
+Niterói,12722,ENGENHARIA DE TELECOMUNICAÇÕES,Bacharelado,Integral,  45 ,  329 ,  45 ,  281 ,  90 ,  610 
+Niterói,12727,ENGENHARIA DE PRODUÇÃO,Bacharelado,Integral,  45 ,  459 ,  45 ,  326 ,  90 ,  785 
+Niterói,12728,ENGENHARIA AGRÍCOLA E AMBIENTAL,Bacharelado,Integral,  50 ,  452 ,  50 ,  307 ,  100 ,  759 
+Niterói,18609,PRODUÇÃO CULTURAL,Bacharelado,Integral,  36 ,  515 ,  36 ,  363 ,  72 ,  878 
+Niterói,25926,LETRAS - INGLÊS,Licenciatura,Noturno,  35 ,  509 , -, -,  35 ,  509 
+Niterói,29470,LETRAS - PORTUGUÊS,Licenciatura,Integral, -, -,  40 ,  237 ,  40 ,  237 
+Niterói,29470,LETRAS - PORTUGUÊS,Licenciatura,Noturno,  40 ,  507 , -, -,  40 ,  507 
+Niterói,29471,LETRAS - ITALIANO,Licenciatura,Noturno, -, -,  14 ,  101 ,  14 ,  101 
+Niterói,29581,LETRAS - LATIM,Licenciatura,Integral,  25 ,  161 , -, -,  25 ,  161 
+Niterói,31882,COMUNICAÇÃO SOCIAL - PUBLICIDADE E PROPAGANDA,Bacharelado,Integral,  26 ,  1448 ,  26 ,  1047 ,  52 ,  2495 
+Niterói,32998,LETRAS - ALEMÃO,Licenciatura,Integral, -, -,  14 ,  69 ,  14 ,  69 
+Niterói,32999,LETRAS - GREGO,Licenciatura,Integral,  18 ,  160 , -, -,  18 ,  160 
+Niterói,34797,LETRAS - ESPANHOL,Licenciatura,Noturno, -, -,  35 ,  219 ,  35 ,  219 
+Niterói,34798,LETRAS - FRANCÊS,Licenciatura,Integral, -, -,  25 ,  116 ,  25 ,  116 
+Niterói,44367,CIÊNCIAS BIOLÓGICAS,Licenciatura,Integral,  20 ,  271 ,  20 ,  168 ,  40 ,  439 
+Niterói,63646,TURISMO,Bacharelado,Integral,  45 ,  594 ,  45 ,  432 ,  90 ,  1026 
+Niterói,63834,BIOMEDICINA,Bacharelado,Integral,  31 ,  1440 ,  31 ,  1300 ,  62 ,  2740 
+Niterói,83170,GEOFISICA,Bacharelado,Integral,  42 ,  306 , -, -,  42 ,  306 
+Niterói,83177,ESTUDOS DE MÍDIA,Bacharelado,Integral,  30 ,  513 ,  30 ,  346 ,  60 ,  859 
+Niterói,90473,ENGENHARIA DE PETRÓLEO,Bacharelado,Integral,  45 ,  206 , -, -,  45 ,  206 
+Niterói,99082,ESTATÍSTICA,Bacharelado,Integral,  43 ,  285 ,  43 ,  188 ,  86 ,  473 
+Niterói,100406,EDUCAÇÃO FÍSICA,Licenciatura,Integral,  32 ,  1564 ,  32 ,  495 ,  64 ,  2059 
+Niterói,100670,ENGENHARIA DE RECURSOS HÍDRICOS E DO MEIO AMBIENTE,Bacharelado,Integral,  50 ,  391 ,  50 ,  217 ,  100 ,  608 
+Niterói,108644,FILOSOFIA,Licenciatura,Matutino,  28 ,  390 ,  28 ,  188 ,  56 ,  578 
+Niterói,108646,CINEMA E AUDIOVISUAL,Bacharelado,Integral,  36 ,  1206 ,  36 ,  1063 ,  72 ,  2269 
+Niterói,108648,RELAÇÕES INTERNACIONAIS,Bacharelado,Matutino,  55 ,  1034 ,  55 ,  1303 ,  110 ,  2337 
+Niterói,312686,CIÊNCIAS SOCIAIS,Bacharelado,Noturno,  30 ,  373 , -, -,  30 ,  373 
+Niterói,312686,CIÊNCIAS SOCIAIS,Bacharelado,Vespertino, -, -,  30 ,  247 ,  30 ,  247 
+Niterói,312688,FÍSICA,Bacharelado,Integral,  25 ,  117 ,  25 ,  95 ,  50 ,  212 
+Niterói,312689,GEOGRAFIA,Bacharelado,Matutino,  25 ,  359 , -, -,  25 ,  359 
+Niterói,312689,GEOGRAFIA,Bacharelado,Noturno, -, -,  25 ,  201 ,  25 ,  201 
+Niterói,312700,QUÍMICA,Bacharelado,Integral,  15 ,  134 ,  15 ,  110 ,  30 ,  244 
+Niterói,312702,MATEMÁTICA,Bacharelado,Matutino,  20 ,  163 ,  20 ,  96 ,  40 ,  259 
+Niterói,312703,PSICOLOGIA,Bacharelado,Integral,  45 ,  2995 ,  45 ,  1739 ,  90 ,  4734 
+Niterói,312705,HISTÓRIA,Bacharelado,Matutino,  5 ,  93 ,  5 ,  53 ,  10 ,  146 
+Niterói,312705,HISTÓRIA,Bacharelado,Noturno,  5 ,  113 ,  5 ,  55 ,  10 ,  168 
+Niterói,329471,LETRAS - ITALIANO,Bacharelado,Noturno, -, -,  6 ,  39 ,  6 ,  39 
+Niterói,332998,LETRAS - ALEMÃO,Bacharelado,Integral, -, -,  6 ,  19 ,  6 ,  19 
+Niterói,332999,LETRAS - GREGO,Bacharelado,Integral,  7 ,  68 , -, -,  7 ,  68 
+Niterói,334798,LETRAS - FRANCÊS,Bacharelado,Integral, -, -,  10 ,  64 ,  10 ,  64 
+Niterói,344367,CIÊNCIAS BIOLÓGICAS,Bacharelado,Integral,  40 ,  831 ,  40 ,  635 ,  80 ,  1466 
+Niterói,408644,FILOSOFIA,Bacharelado,Matutino,  28 ,  313 ,  28 ,  189 ,  56 ,  502 
+Niterói,1122221,SISTEMAS DE INFORMAÇÃO,Bacharelado,Noturno,  61 ,  839 ,  61 ,  504 ,  122 ,  1343 
+Niterói,1122223,CIÊNCIAS ATUARIAIS,Bacharelado,Noturno,  40 ,  331 ,  40 ,  225 ,  80 ,  556 
+Niterói,1126977,HOTELARIA,Tecnológico,Integral,  50 ,  447 , -, -,  50 ,  447 
+Niterói,1145026,DESENHO INDUSTRIAL,Bacharelado,Integral,  50 ,  587 ,  50 ,  395 ,  100 ,  982 
+Niterói,1151162,ANTROPOLOGIA,Bacharelado,Integral,  62 ,  744 , -, -,  62 ,  744 
+Niterói,1153323,SOCIOLOGIA,Bacharelado,Noturno, -, -,  56 ,  328 ,  56 ,  328 
+Niterói,1153323,SOCIOLOGIA,Bacharelado,Vespertino,  56 ,  571 , -, -,  56 ,  571 
+Niterói,1166700,SEGURANÇA PÚBLICA,Bacharelado,Noturno,  60 ,  1125 ,  60 ,  528 ,  120 ,  1653 
+Niterói,1169809,ARTES,Bacharelado,Integral,  20 ,  522 ,  20 ,  324 ,  40 ,  846 
+Niterói,1169811,CINEMA E AUDIOVISUAL,Licenciatura,Noturno,  22 ,  429 , -, -,  22 ,  429 
+Niterói,1270437,PROCESSOS GERENCIAIS,Tecnológico,Noturno,  50 ,  750 ,  50 ,  386 ,  100 ,  1136 
+Niterói,1342617,JORNALISMO,Bacharelado,Integral,  26 ,  913 ,  26 ,  640 ,  52 ,  1553 
+Niterói,1457276,ADMINISTRAÇÃO PÚBLICA,Bacharelado,Integral,  25 ,  290 ,  25 ,  178 ,  50 ,  468 
+Niterói,5000479,CIÊNCIA AMBIENTAL,Bacharelado,Integral,  40 ,  517 , -, -,  40 ,  517 
+Nova Friburgo,9709,ODONTOLOGIA,Bacharelado,Integral,  40 ,  1002 ,  40 ,  884 ,  80 ,  1886 
+Nova Friburgo,1100006,BIOMEDICINA,Bacharelado,Integral,  30 ,  710 , -, -,  30 ,  710 
+Nova Friburgo,1100007,FONOAUDIOLOGIA,Bacharelado,Integral,  35 ,  672 , -, -,  35 ,  672 
+Petrópolis,1303882,ENGENHARIA DE PRODUÇÃO,Bacharelado,Integral,  50 ,  216 ,  50 ,  179 ,  100 ,  395 
+Rio das Ostras,82799,CIÊNCIA DA COMPUTAÇÃO,Bacharelado,Integral,  35 ,  425 ,  35 ,  317 ,  70 ,  742 
+Rio das Ostras,82834,SERVIÇO SOCIAL,Bacharelado,Noturno,  35 ,  722 ,  35 ,  338 ,  70 ,  1060 
+Rio das Ostras,82840,ENFERMAGEM,Bacharelado,Integral,  30 ,  997 ,  30 ,  600 ,  60 ,  1597 
+Rio das Ostras,82842,ENGENHARIA DE PRODUÇÃO,Bacharelado,Integral,  35 ,  247 ,  35 ,  219 ,  70 ,  466 
+Rio das Ostras,82868,PRODUÇÃO CULTURAL,Bacharelado,Integral,  35 ,  369 ,  35 ,  235 ,  70 ,  604 
+Rio das Ostras,382876,PSICOLOGIA,Bacharelado,Integral,  40 ,  1401 , -, -,  40 ,  1401 
+Santo Antônio de Pádua,12713,MATEMÁTICA,Licenciatura,Noturno,  40 ,  163 , -, -,  40 ,  163 
+Santo Antônio de Pádua,123704,PEDAGOGIA,Licenciatura,Noturno,  50 ,  487 , -, -,  50 ,  487 
+Santo Antônio de Pádua,1123027,FÍSICA,Licenciatura,Noturno,  50 ,  74 , -, -,  50 ,  74 
+Santo Antônio de Pádua,1145029,CIÊNCIAS NATURAIS,Licenciatura,Noturno,  50 ,  278 , -, -,  50 ,  278 
+Santo Antônio de Pádua,1145037,COMPUTAÇÃO,Licenciatura,Integral,  50 ,  334 , -, -,  50 ,  334 
+Santo Antônio de Pádua,1303424,INTERDISCIPLINAR EM EDUCAÇÃO NO CAMPO,Licenciatura,Integral,  60 ,  109 , -, -,  60 ,  109 
+Santo Antônio de Pádua,5000477,MATEMÁTICA,Bacharelado,Noturno,  50 ,  203 , -, -,  50 ,  203 
+Volta Redonda,12712,ENGENHARIA METALÚRGICA,Bacharelado,Integral,  24 ,  197 ,  24 ,  92 ,  48 ,  289 
+Volta Redonda,44370,ENGENHARIA MECÂNICA,Bacharelado,Integral,  40 ,  403 ,  40 ,  214 ,  80 ,  617 
+Volta Redonda,44374,ENGENHARIA DE PRODUÇÃO,Bacharelado,Integral,  40 ,  402 ,  40 ,  230 ,  80 ,  632 
+Volta Redonda,90471,ENGENHARIA DE AGRONEGÓCIOS,Bacharelado,Integral,  40 ,  282 ,  40 ,  149 ,  80 ,  431 
+Volta Redonda,90475,ADMINISTRAÇÃO,Bacharelado,Noturno,  60 ,  943 ,  60 ,  498 ,  120 ,  1441 
+Volta Redonda,1100002,QUÍMICA,Bacharelado,Integral,  31 ,  196 ,  31 ,  120 ,  62 ,  316 
+Volta Redonda,1100003,QUÍMICA,Licenciatura,Integral,  31 ,  173 ,  31 ,  133 ,  62 ,  306 
+Volta Redonda,1107861,CIÊNCIAS CONTÁBEIS,Bacharelado,Matutino, -, -,  40 ,  223 ,  40 ,  223 
+Volta Redonda,1107861,CIÊNCIAS CONTÁBEIS,Bacharelado,Noturno,  40 ,  542 ,  40 ,  244 ,  80 ,  786 
+Volta Redonda,1122220,DIREITO,Bacharelado,Integral,  40 ,  988 ,  40 ,  805 ,  80 ,  1793 
+Volta Redonda,1125307,MATEMÁTICA,Bacharelado,Integral,  40 ,  198 ,  40 ,  147 ,  80 ,  345 
+Volta Redonda,1125326,ADMINISTRAÇÃO PÚBLICA,Bacharelado,Integral,  42 ,  580 , -, -,  42 ,  580 
+Volta Redonda,1125664,FÍSICA,Bacharelado,Integral,  40 ,  179 ,  40 ,  153 ,  80 ,  332 
+Volta Redonda,1304766,ENGENHARIA DE MATERIAIS,Bacharelado,Integral,  20 ,  155 ,  20 ,  90 ,  40 ,  245 
+Volta Redonda,5000478,PSICOLOGIA,Bacharelado,Integral,  40 ,  1445 , -, -,  40 ,  1445 
+,,,,,4898,81690,3992,51050,8890,132740
